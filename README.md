@@ -38,6 +38,6 @@
 <div align="center">
     <h2>GitHub Status</h2>
     <a href="https://github.com/RichardTavares">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardTavares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=css,scss,html">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richard-tavares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=css,scss,html">
     </a>
 </div>
