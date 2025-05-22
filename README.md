@@ -2,9 +2,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=450&lines=Richard+Tavares;Desenvolvedor+Full+Stack" alt="Typing SVG" />
     <img src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" alt="Principal" width="100%" />
     <h2>Sobre</h2>
-    <p style="font-size: medium; text-align: center;">
-        Desenvolvedor full stack com mais de 3 anos de experiência e formação em análise e desenvolvimento de sistemas, contribuindo em todas as etapas de projetos, desde a concepção até a implantação.
-    </p>
+    <p style="font-size: medium; text-align: center;">Desenvolvedor Full Stack com mais de 5 anos de experiência no desenvolvimento de aplicações web, com foco em boas práticas e qualidade de código. Tenho experiência com sistemas monolíticos e também com arquiteturas baseadas em micro serviços, priorizando escalabilidade e manutenibilidade.</p>
 </div>
 <div style="display: inline_block" align="center">
     <h2>Networking</h2>
