@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=450&lines=Richard+Tavares;Desenvolvedor+Full+Stack" alt="Typing SVG" />
     <img src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" alt="Principal" width="100%" />
     <h2>Sobre</h2>
-    <p style="font-size: medium; text-align: center;">Desenvolvedor Full Stack com mais de 5 anos de experiência no desenvolvimento de aplicações web, com foco em boas práticas e qualidade de código. Tenho experiência com sistemas monolíticos e também com arquiteturas baseadas em micro serviços, priorizando escalabilidade e manutenibilidade.</p>
+    <p style="font-size: medium; text-align: center;">Desenvolvedor Full Stack com mais de 5 anos de experiência em aplicações web, atuando tanto em sistemas monolíticos quanto em arquiteturas desacopladas baseadas em microsserviços. Vivência em todo o ciclo de desenvolvimento, englobando levantamento de requisitos, implementação, testes, entrega e manutenção, sempre com foco em escalabilidade, segurança, qualidade de código e boas práticas.</p>
 </div>
 <div style="display: inline_block" align="center">
     <h2>Networking</h2>
@@ -39,6 +39,7 @@
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
+    <img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white" alt="BitBucket">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman">
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </div>
