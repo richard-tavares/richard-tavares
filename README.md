@@ -106,7 +106,6 @@ Desenvolvedor Full Stack com mais de 5 anos de experiência. Trabalho com arquit
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 ![i18n](https://img.shields.io/badge/i18n-0078D4?style=for-the-badge)
 ![Git Flow](https://img.shields.io/badge/Git_Flow-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![SDLC](https://img.shields.io/badge/SDLC-2C3E50?style=for-the-badge)
 ![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge)
 ![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge)
 ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white)
