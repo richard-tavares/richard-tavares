@@ -1,12 +1,12 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=ffffff&center=true&vCenter=true&width=450&lines=Richard+Tavares;Desenvolvedor+Full+Stack)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=ffffff&center=true&vCenter=true&width=450&lines=Richard+Tavares;Full+Stack+Developer)
 
 <img src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" alt="Principal" width="100%" />
 
-## Sobre
+## About
 
-Desenvolvedor Full Stack com mais de 5 anos de experiência. Trabalho com arquiteturas desacopladas, microsserviços e APIs RESTful, priorizando segurança, desempenho e manutenibilidade em cada decisão técnica.
+Full Stack Developer with 5+ years of experience. I work with decoupled architectures, microservices, and RESTful APIs, prioritizing security, performance, and maintainability in every technical decision.
 
 ## Networking
 
@@ -14,7 +14,7 @@ Desenvolvedor Full Stack com mais de 5 anos de experiência. Trabalho com arquit
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:richard.jstavares@gmail.com)
 [![Gravatar](https://img.shields.io/badge/Gravatar-1E8CBE.svg?style=for-the-badge&logo=Gravatar&logoColor=white)](https://gravatar.com/richardjstavares)
 
-## Competências
+## Skills
 
 ### ⚙️ Back-end
 
@@ -54,7 +54,7 @@ Desenvolvedor Full Stack com mais de 5 anos de experiência. Trabalho com arquit
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### 🗄️ Banco de Dados
+### 🗄️ Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -75,7 +75,7 @@ Desenvolvedor Full Stack com mais de 5 anos de experiência. Trabalho com arquit
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Composer](https://img.shields.io/badge/Composer-885630.svg?style=for-the-badge&logo=Composer&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Google Cloud Plataform](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Google Cloud Platform](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -83,7 +83,7 @@ Desenvolvedor Full Stack com mais de 5 anos de experiência. Trabalho com arquit
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)
 
-### 🧪 Qualidade & Testes
+### 🧪 Quality & Testing
 
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-3C4A5F?style=for-the-badge)
 ![Pest](https://img.shields.io/badge/Pest-F5A623?style=for-the-badge)
@@ -95,14 +95,14 @@ Desenvolvedor Full Stack com mais de 5 anos de experiência. Trabalho com arquit
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### 📊 Dados & BI
+### 📊 Data & BI
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Apache NiFi](https://img.shields.io/badge/Apache%20NiFi-728E9B.svg?style=for-the-badge&logo=Apache-NiFi&logoColor=white)
 
-### 🔧 Outros
+### 🔧 Other
 
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 ![i18n](https://img.shields.io/badge/i18n-0078D4?style=for-the-badge)
@@ -113,6 +113,10 @@ Desenvolvedor Full Stack com mais de 5 anos de experiência. Trabalho com arquit
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D.svg?style=for-the-badge&logo=Confluence&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white)
+
+## Most Used Languages
+
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=richard-tavares&hide_title=true&theme=tokyonight&hide=html,css,scss)](https://github.com/richard-tavares/github-readme-stats)
 
 ## Commits
 
