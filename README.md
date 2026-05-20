@@ -98,7 +98,6 @@ Full Stack Developer with 5+ years of experience. I work with decoupled architec
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Apache NiFi](https://img.shields.io/badge/Apache%20NiFi-728E9B.svg?style=for-the-badge&logo=Apache-NiFi&logoColor=white)
 
 ### 🔧 Other
