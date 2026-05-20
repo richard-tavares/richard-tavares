@@ -24,6 +24,7 @@ Desenvolvedor Full Stack com mais de 5 anos de experiência. Trabalho com arquit
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-005571?style=for-the-badge)
 ![Microservices](https://img.shields.io/badge/Microservices-1a1a2e?style=for-the-badge)
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D.svg?style=for-the-badge&logo=Keycloak&logoColor=white)
 ![OAuth](https://img.shields.io/badge/OAuth-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
