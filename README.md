@@ -51,6 +51,8 @@ Full Stack Developer with 5+ years of experience. I work with decoupled architec
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 ![Mosquitto](https://img.shields.io/badge/Mosquitto-3C5280?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### 🛢️ Databases
 
@@ -69,6 +71,7 @@ Full Stack Developer with 5+ years of experience. I work with decoupled architec
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Apache NiFi](https://img.shields.io/badge/Apache%20NiFi-728E9B.svg?style=for-the-badge&logo=Apache-NiFi&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Composer](https://img.shields.io/badge/Composer-885630.svg?style=for-the-badge&logo=Composer&logoColor=white)
@@ -93,12 +96,6 @@ Full Stack Developer with 5+ years of experience. I work with decoupled architec
 ![Pest](https://img.shields.io/badge/Pest-f672b7?style=for-the-badge)
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-3c698d?style=for-the-badge)
 ![PHPStan](https://img.shields.io/badge/PHPStan-5b689e?style=for-the-badge)
-
-### 📊 Data & BI
-
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Apache NiFi](https://img.shields.io/badge/Apache%20NiFi-728E9B.svg?style=for-the-badge&logo=Apache-NiFi&logoColor=white)
 
 ### 🔧 Other
 
