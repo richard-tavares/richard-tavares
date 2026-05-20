@@ -12,6 +12,7 @@ Desenvolvedor Full Stack com mais de 5 anos de experiência. Trabalho com arquit
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-tavares/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:richard.jstavares@gmail.com)
+[![Gravatar](https://img.shields.io/badge/Gravatar-1E8CBE.svg?style=for-the-badge&logo=Gravatar&logoColor=white)](https://gravatar.com/richardjstavares)
 
 ## Competências
 
