@@ -23,8 +23,6 @@ Full Stack Developer with 5+ years of experience. I work with decoupled architec
 ![Laravel Horizon](https://img.shields.io/badge/Laravel%20Horizon-405263.svg?style=for-the-badge&logo=Laravel-Horizon&logoColor=white)
 ![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-005571?style=for-the-badge)
-![Microservices](https://img.shields.io/badge/Microservices-1a1a2e?style=for-the-badge)
 ![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D.svg?style=for-the-badge&logo=Keycloak&logoColor=white)
 ![OAuth](https://img.shields.io/badge/OAuth-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
@@ -49,10 +47,6 @@ Full Stack Developer with 5+ years of experience. I work with decoupled architec
 ![Sass](https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-671ddf?style=for-the-badge&logo=axios&logoColor=white)
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8.svg?style=for-the-badge&logo=PWA&logoColor=white)
-
-### 📱 Mobile
-
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### 🗄️ Databases
 
@@ -81,6 +75,7 @@ Full Stack Developer with 5+ years of experience. I work with decoupled architec
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 ### 🧪 Quality & Testing
@@ -89,9 +84,7 @@ Full Stack Developer with 5+ years of experience. I work with decoupled architec
 ![Pest](https://img.shields.io/badge/Pest-f672b7?style=for-the-badge)
 ![PHPStan](https://img.shields.io/badge/PHPStan-5b689e?style=for-the-badge)
 ![Vitest](https://img.shields.io/badge/Vitest-6fb486.svg?style=for-the-badge&logo=Vitest&logoColor=white)
-![TDD](https://img.shields.io/badge/TDD-2f7052?style=for-the-badge)
-![Clean Code](https://img.shields.io/badge/Clean_Code-2C3E50?style=for-the-badge)
-![SOLID](https://img.shields.io/badge/SOLID-0d1117?style=for-the-badge)
+![SonarQube](https://img.shields.io/badge/SonarQube-126ED3.svg?style=for-the-badge&logo=SonarQube-for-IDE&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
@@ -104,15 +97,14 @@ Full Stack Developer with 5+ years of experience. I work with decoupled architec
 
 ### 🔧 Other
 
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
-![i18n](https://img.shields.io/badge/i18n-839497?style=for-the-badge)
-![Git Flow](https://img.shields.io/badge/Git_Flow-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-2580c2?style=for-the-badge)
 ![Kanban](https://img.shields.io/badge/Kanban-f0324c?style=for-the-badge)
 ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D.svg?style=for-the-badge&logo=Confluence&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white)
+![Excalidraw](https://img.shields.io/badge/Excalidraw-6965DB.svg?style=for-the-badge&logo=Excalidraw&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-050038.svg?style=for-the-badge&logo=Miro&logoColor=white)
 
 ## Most Used Languages
 
