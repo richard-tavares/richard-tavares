@@ -44,11 +44,6 @@
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </div>
 <div align="center">
-    <h2>GitHub Status</h2>
-    <a href="https://github.com/richard-tavares">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richard-tavares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=css,scss,html,blade,dockerfile,batchfile">
-    </a>
-</div>
-<div align="center">
+    <h2>Commits</h2>
     <img src="https://raw.githubusercontent.com/richard-tavares/richard-tavares/output/snake.svg" alt="Snake animation" />
 </div>
