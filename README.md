@@ -10,7 +10,7 @@ Full Stack Developer with 5+ years of experience. I work with decoupled architec
 
 ## Networking
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-tavares/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0964bf?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-tavares/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:richard.jstavares@gmail.com)
 [![Gravatar](https://img.shields.io/badge/Gravatar-1E8CBE.svg?style=for-the-badge&logo=Gravatar&logoColor=white)](https://gravatar.com/richardjstavares)
 
@@ -18,7 +18,7 @@ Full Stack Developer with 5+ years of experience. I work with decoupled architec
 
 ### ⚙️ Back-end
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-7b7fb5?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Laravel Horizon](https://img.shields.io/badge/Laravel%20Horizon-405263.svg?style=for-the-badge&logo=Laravel-Horizon&logoColor=white)
 ![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
@@ -40,7 +40,7 @@ Full Stack Developer with 5+ years of experience. I work with decoupled architec
 ![MUI](https://img.shields.io/badge/MUI-007FFF.svg?style=for-the-badge&logo=MUI&logoColor=white)
 ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black)
 ![Pinia](https://img.shields.io/badge/Pinia-FFD859.svg?style=for-the-badge&logo=Pinia&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5b4380?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384.svg?style=for-the-badge&logo=chartdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
@@ -58,7 +58,7 @@ Full Stack Developer with 5+ years of experience. I work with decoupled architec
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-cccccc?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Oracle DB](https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=MariaDB&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -85,11 +85,11 @@ Full Stack Developer with 5+ years of experience. I work with decoupled architec
 
 ### 🧪 Quality & Testing
 
-![PHPUnit](https://img.shields.io/badge/PHPUnit-3C4A5F?style=for-the-badge)
-![Pest](https://img.shields.io/badge/Pest-F5A623?style=for-the-badge)
-![PHPStan](https://img.shields.io/badge/PHPStan-8892BF?style=for-the-badge)
-![Vitest](https://img.shields.io/badge/Vitest-00FF74.svg?style=for-the-badge&logo=Vitest&logoColor=white)
-![TDD](https://img.shields.io/badge/TDD-27AE60?style=for-the-badge)
+![PHPUnit](https://img.shields.io/badge/PHPUnit-3c698d?style=for-the-badge)
+![Pest](https://img.shields.io/badge/Pest-f672b7?style=for-the-badge)
+![PHPStan](https://img.shields.io/badge/PHPStan-5b689e?style=for-the-badge)
+![Vitest](https://img.shields.io/badge/Vitest-6fb486.svg?style=for-the-badge&logo=Vitest&logoColor=white)
+![TDD](https://img.shields.io/badge/TDD-2f7052?style=for-the-badge)
 ![Clean Code](https://img.shields.io/badge/Clean_Code-2C3E50?style=for-the-badge)
 ![SOLID](https://img.shields.io/badge/SOLID-0d1117?style=for-the-badge)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
@@ -105,10 +105,10 @@ Full Stack Developer with 5+ years of experience. I work with decoupled architec
 ### 🔧 Other
 
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
-![i18n](https://img.shields.io/badge/i18n-0078D4?style=for-the-badge)
+![i18n](https://img.shields.io/badge/i18n-839497?style=for-the-badge)
 ![Git Flow](https://img.shields.io/badge/Git_Flow-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge)
-![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge)
+![Scrum](https://img.shields.io/badge/Scrum-2580c2?style=for-the-badge)
+![Kanban](https://img.shields.io/badge/Kanban-f0324c?style=for-the-badge)
 ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D.svg?style=for-the-badge&logo=Confluence&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC.svg?style=for-the-badge&logo=Trello&logoColor=white)
