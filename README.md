@@ -113,7 +113,7 @@ Mais de 5 anos construindo soluções com arquiteturas desacopladas, microsservi
 
 ## Top Languages
 
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=richard-tavares&hide_title=true&theme=tokyonight&hide=html,css,scss)](https://github.com/richard-tavares/github-readme-stats)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=richard-tavares&hide_title=true&theme=tokyonight&hide=html,css,scss,blade)](https://github.com/richard-tavares/github-readme-stats)
 
 ## Commits
 
