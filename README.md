@@ -4,15 +4,18 @@
 
 <img src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" alt="Principal" width="100%" />
 
-## About
+</div>
+<br>
+Mais de 5 anos construindo soluções com arquiteturas desacopladas, microsserviços e APIs RESTful, priorizando manutenibilidade, performance e qualidade em cada decisão técnica.
 
-Full Stack Developer with 5+ years of experience. I work with decoupled architectures, microservices, and RESTful APIs, prioritizing security, performance, and maintainability in every technical decision.
+<div align="center">
 
 ## Networking
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0964bf?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-tavares/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:richard.jstavares@gmail.com)
 [![Gravatar](https://img.shields.io/badge/Gravatar-1E8CBE.svg?style=for-the-badge&logo=Gravatar&logoColor=white)](https://gravatar.com/richardjstavares)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://richard-tavares.github.io/)
 
 ## Skills
 
@@ -84,7 +87,7 @@ Full Stack Developer with 5+ years of experience. I work with decoupled architec
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)
 
-### 🧪 Quality & Testing
+### 🧪 Quality
 
 ![SonarQube](https://img.shields.io/badge/SonarQube-126ED3.svg?style=for-the-badge&logo=SonarQube-for-IDE&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
@@ -97,7 +100,7 @@ Full Stack Developer with 5+ years of experience. I work with decoupled architec
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-3c698d?style=for-the-badge)
 ![PHPStan](https://img.shields.io/badge/PHPStan-5b689e?style=for-the-badge)
 
-### 🔧 Other
+### 🔧 Extra
 
 ![Scrum](https://img.shields.io/badge/Scrum-2580c2?style=for-the-badge)
 ![Kanban](https://img.shields.io/badge/Kanban-f0324c?style=for-the-badge)
@@ -108,7 +111,7 @@ Full Stack Developer with 5+ years of experience. I work with decoupled architec
 ![Excalidraw](https://img.shields.io/badge/Excalidraw-6965DB.svg?style=for-the-badge&logo=Excalidraw&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-050038.svg?style=for-the-badge&logo=Miro&logoColor=white)
 
-## Most Used Languages
+## Top Languages
 
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=richard-tavares&hide_title=true&theme=tokyonight&hide=html,css,scss)](https://github.com/richard-tavares/github-readme-stats)
 
