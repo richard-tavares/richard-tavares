@@ -37,7 +37,6 @@ Mais de 5 anos construindo soluções com arquiteturas desacopladas, microsservi
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-671ddf?style=for-the-badge&logo=axios&logoColor=white)
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8.svg?style=for-the-badge&logo=PWA&logoColor=white)
 
@@ -73,6 +72,7 @@ Mais de 5 anos construindo soluções com arquiteturas desacopladas, microsservi
 ### ☁️ Cloud & DevOps
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49.svg?style=for-the-badge&logo=MinIO&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white)
@@ -120,3 +120,4 @@ Mais de 5 anos construindo soluções com arquiteturas desacopladas, microsservi
 <img src="https://raw.githubusercontent.com/richard-tavares/richard-tavares/output/snake.svg" alt="Snake animation" width="100%" />
 
 </div>
+](https://img.shields.io/badge/Keycloak-4D4D4D.svg?style=for-the-badge&logo=Keycloak&logoColor=white)
