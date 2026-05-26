@@ -120,4 +120,3 @@ Mais de 5 anos construindo soluções com arquiteturas desacopladas, microsservi
 <img src="https://raw.githubusercontent.com/richard-tavares/richard-tavares/output/snake.svg" alt="Snake animation" width="100%" />
 
 </div>
-](https://img.shields.io/badge/Keycloak-4D4D4D.svg?style=for-the-badge&logo=Keycloak&logoColor=white)
